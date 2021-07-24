@@ -1,5 +1,7 @@
 # SeamCarving
 
+Descrição do trabalho: https://mflash.github.io/progswb2/trab/t2-211-hfu7g67yercy7rfuc/index.html
+
 Trabalho feito para disciplina de Programação de Baixo Nível do curso de Ciência da Computação da PUCRS, feito em dupla com o colega Lucas Andreotti (https://github.com/LucasAndreotti)
 
 Para compilar o programa é necessário dar make em sua pasta raíz e executar, informando a imagem sobre a qual se deseja aplicar o algoritmo de Seam Carving juntamente com uma máscara. 
